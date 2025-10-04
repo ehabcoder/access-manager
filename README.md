@@ -244,7 +244,6 @@ npm start
 
 You can contact me via:
 email: ehabr518@gmail.com
-instagram: ehabcoder
 linkedin: https://www.linkedin.com/in/ehabcoder/
 
 ---
