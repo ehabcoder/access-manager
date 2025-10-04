@@ -240,22 +240,12 @@ cd backend
 npm start
 ```
 
-## Contributing
-
-Feel free to fork this project and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-MIT License - feel free to use this project for learning or production purposes.
-
 ## Contact
 
 You can contact me via:
 email: ehabr518@gmail.com
 instagram: ehabcoder
 linkedin: https://www.linkedin.com/in/ehabcoder/
-
-For questions or support, please open an issue in the GitHub repository.
 
 ---
 
